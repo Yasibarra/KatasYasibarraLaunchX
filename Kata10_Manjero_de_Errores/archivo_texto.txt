@@ -1,1 +1,0 @@
-Ejemplo de abrir un archivo en python 
